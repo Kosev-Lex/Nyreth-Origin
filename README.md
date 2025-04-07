@@ -29,5 +29,5 @@ Date of declaration: 		    30 March 2025
 
 This document is released as a public record of origin and intent.
 Further expansions of the system will occur in stages.
-
+(c)Copyright 2025. All rights reserved.
 END OF CANONICAL RECORD (Version 0.1 – Symbolic Lineage Anchor)
