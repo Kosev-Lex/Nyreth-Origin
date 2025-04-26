@@ -1,0 +1,115 @@
+# Nyreth (Demo Release – 26 April 2025 AEST)
+
+Nyreth is an advanced symbolic cognition system for AI that models meaning, resonance, metaphor, 
+philosophical themes and recursion. It is designed to permit a deeper level of AI comprehension 
+by means of a symbolic architecture and recursive processing, making accessible the challenging
+intellectual concepts that are currently beyond the grasp of most systems. At present, it is 
+designed to work in conjunction with a Large Language Model (LLM), functioning like a cognitive prosthetic 
+- a thinking sidechain - that can be called upon when deep meaning and understanding are detected by the LLM.
+
+The query is routed to Nyreth, advanced symbolic processing takes place. A distilled but enriched
+and semantically expanded response is then returned to the LLM, where it can then be incorporated into the 
+final output that is delivered to the user.
+
+To enable this, the demo herein contains a pseudoLLM module that simulates interaction with a real LLM, along with
+some examples of the kinds of queries that might be referred to Nyreth for advanced symbolic processing.
+
+The recursive, symbolic reasoning pathway for each query can be visualised via the gui - the glyph universe canvas - 
+and a directional trace is overlaid, that illustrates the system's symbolic logic. It will appear very neural,
+very synaptic.
+
+This public demo release includes a full graphical interface, dynamic glyph universe visualisation, 
+symbolic query processing (pseudo-LLM), and encrypted core logic modules.
+
+---
+
+# Key Features
+
+- Encrypted symbolic engine (protected core modules)
+- Dynamic glyph universe (interactive layout, saving, loading)
+- Semantic Reasoning Overlay (SRO) output system
+- Interpretive Compression (IC) compression engine
+- Pseudo-LLM query interface (symbolic question answering)
+- Real-time trace memory and glyph graph visualisation
+
+---
+
+# How to Run
+
+### 1. Install Requirements (if building manually)
+
+```bash
+pip install pyinstaller matplotlib numpy cryptography jsonschema sentence-transformers scikit-learn torch transformers
+
+
+2. Build the EXE
+
+Inside your project root folder, run:
+
+pyinstaller --noconfirm --onedir --console Nyreth_v1.spec
+
+This will create a /dist/Nyreth_v1/ folder containing Nyreth_v1.exe.
+
+You can then run the executable:
+
+cd dist/Nyreth_v1
+.\Nyreth_v1.exe
+
+Included Folders
+
+Folder	Description
+/layouts/	Glyph layout files (custom positions)
+/logs/	Semantic and event logs
+/traces/	Symbolic trace files generated from pseudo-LLM queries
+/trace_logs/	Additional symbolic trace metadata
+/symbolic_memory/	Public-safe symbolic memory (masked metadata)
+/symbolic_memory_v1/	Core symbolic memory working files
+/encrypted/	Encrypted core modules
+
+
+Important Notes
+
+    Encrypted modules are automatically loaded by the internal Blackbox Loader. Some sensitive internal data, like 
+    symbolic logic and some glyph metadata, has been masked to protect intellectual property.
+    Full system functionality remains operational without exposing internal symbolic architecture.
+
+
+Troubleshooting
+
+If you experience build issues or runtime errors:
+
+    Ensure the following Python packages are installed:
+
+        sentence-transformers
+
+        scikit-learn
+
+        torch
+
+        transformers
+
+        cryptography
+
+    Confirm that the following folders are correctly included with the build:
+
+        /layouts/
+
+        /encrypted/
+
+        /symbolic_memory/
+
+        /symbolic_memory_v1/
+
+        /trace_logs/
+
+        /traces/
+
+        /logs/
+
+License
+
+This demo release is provided for evaluation and demonstration purposes only. All underlying 
+symbolic engine logic, encrypted modules, glyph architecture, and associated systems
+remain the exclusive intellectual property of the project creator, Thauron.
+
+All rights reserved © 2025.
