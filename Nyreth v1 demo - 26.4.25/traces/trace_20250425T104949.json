@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-04-25T10:49:49.350612",
+  "query": "How do shadows form between people who were once close?",
+  "matched_glyphs": [
+    "Elun"
+  ],
+  "unknown_terms": [],
+  "trace": [
+    "Elun",
+    "Thol",
+    "Varnith (Recursive Delay)",
+    "Selkir"
+  ],
+  "compressed_insight": "Compressed Interpretation:\n→ Path Length: 4\n→ Dominant Glyphs: Elun, Thol, Varnith (Recursive Delay)\n→ Key Motifs:\n   - Common progression: 'Treyl' → 'Olmeth' (x1)\n   - Common progression: 'Olmeth' → 'Syven' (x1)\n   - Common progression: 'Syven' → 'Ulvyn' (x1)\n→ Symbolic Themes:\n   - Abstraction, essentialism, signal refinement\n   - Doubt, buildup, suppressed motion\n   - Future recursion, delayed unfolding\n→ Compression Logic:\n   - Symbolic trace compressed by distilling dominant motifs, semantic fields, and recursive flows.\n   - Each glyph’s potential and connection frequency weighted to infer layered themes.",
+  "semantic_output": "In response to the query: How do shadows form between people who were once close?, the interpretation suggests themes of Abstraction, essentialism, signal refinement, Doubt, buildup, suppressed motion, and Future recursion, delayed unfolding, via recursive progressions like a symbolic transition between unknown glyphs. These symbolic elements combine to offer a perspective that deepens the original inquiry.",
+  "origin": "LLM_plugin"
+}

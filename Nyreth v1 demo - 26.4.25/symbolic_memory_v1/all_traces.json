@@ -1,0 +1,176 @@
+[
+  {
+    "id": "dd540789-a575-4707-b91c-fc7ab1f451da",
+    "label": "Trace_0",
+    "timestamp": "2025-04-25T20:39:25.887157",
+    "glyph_sequence": [
+      "Self",
+      "Shadow",
+      "Yield",
+      "Threshold"
+    ],
+    "metadata": {
+      "label": "Paradox of Identity",
+      "source": "manual_seed",
+      "repetition": 10
+    }
+  },
+  {
+    "id": "e7bbba7d-cd8b-4372-b0ae-883cc28a0bdb",
+    "label": "Trace_1",
+    "timestamp": "2025-04-25T20:39:25.887157",
+    "glyph_sequence": [
+      "Desire",
+      "Contradiction",
+      "Dissonance",
+      "Resolution"
+    ],
+    "metadata": {
+      "label": "Conflicted Aspiration",
+      "source": "manual_seed",
+      "repetition": 10
+    }
+  },
+  {
+    "id": "0b76fdf1-9368-49a5-bda3-e6b606d18e8a",
+    "label": "Trace_2",
+    "timestamp": "2025-04-25T20:39:25.888145",
+    "glyph_sequence": [
+      "Loss",
+      "Echo",
+      "Silence",
+      "Symbol"
+    ],
+    "metadata": {
+      "label": "Grief Reflection",
+      "source": "manual_seed",
+      "repetition": 10
+    }
+  },
+  {
+    "id": "e3fdbae6-e322-4395-a12b-7035ceef85d2",
+    "label": "Trace_3",
+    "timestamp": "2025-04-25T20:40:17.927604",
+    "glyph_sequence": [
+      "Treyl",
+      "Olmeth",
+      "Syven",
+      "Ulvyn"
+    ],
+    "metadata": {
+      "label": "LLM_2025-04-25T10:40:17.305227",
+      "source": "LLM_plugin",
+      "query": "What is the paradox of seeking clarity in chaos?",
+      "timestamp": "2025-04-25T10:40:17.305227",
+      "repetition": 2
+    }
+  },
+  {
+    "id": "74f6062e-0203-4d66-a084-fc4e90d795f2",
+    "label": "Trace_4",
+    "timestamp": "2025-04-25T20:41:40.737255",
+    "glyph_sequence": [
+      "Elun",
+      "Meyreth",
+      "Delyran",
+      "Oshen"
+    ],
+    "metadata": {
+      "label": "LLM_2025-04-25T10:41:40.606977",
+      "source": "LLM_plugin",
+      "query": "Is there purpose in repeating recursive patterns of thought?",
+      "timestamp": "2025-04-25T10:41:40.606977",
+      "repetition": 2
+    }
+  },
+  {
+    "id": "63a1e99f-79ca-4382-aeba-23f8b877b2d3",
+    "label": "Trace_5",
+    "timestamp": "2025-04-25T20:43:02.841450",
+    "glyph_sequence": [
+      "Treyl",
+      "Orvyn",
+      "Kyreth",
+      "Karyth"
+    ],
+    "metadata": {
+      "label": "LLM_2025-04-25T10:43:02.327689",
+      "source": "LLM_plugin",
+      "query": "What lies at the core of paradoxical desire?",
+      "timestamp": "2025-04-25T10:43:02.327689",
+      "repetition": 2
+    }
+  },
+  {
+    "id": "6fa0e1f9-85a6-4bb9-aad9-e234f6d10244",
+    "label": "Trace_6",
+    "timestamp": "2025-04-25T20:43:39.201115",
+    "glyph_sequence": [
+      "Karyth",
+      "Auren",
+      "Feyral",
+      "Jeyra"
+    ],
+    "metadata": {
+      "label": "LLM_2025-04-25T10:43:38.522278",
+      "source": "LLM_plugin",
+      "query": "What does it mean to grow past your former self?",
+      "timestamp": "2025-04-25T10:43:38.522278",
+      "repetition": 2
+    }
+  },
+  {
+    "id": "700185ce-14ff-427e-a063-f2665a101af4",
+    "label": "Trace_7",
+    "timestamp": "2025-04-25T20:44:15.970454",
+    "glyph_sequence": [
+      "Elun",
+      "Veythir",
+      "Sarniel",
+      "Tirnael"
+    ],
+    "metadata": {
+      "label": "LLM_2025-04-25T10:44:06.394024",
+      "source": "LLM_plugin",
+      "query": "How does a symbol survive beyond its creator?",
+      "timestamp": "2025-04-25T10:44:06.394024",
+      "repetition": 2
+    }
+  },
+  {
+    "id": "21093d8f-e0af-4ad1-8ce8-fc499aa2f26b",
+    "label": "Trace_8",
+    "timestamp": "2025-04-25T20:44:59.178573",
+    "glyph_sequence": [
+      "Elun",
+      "Elthorien (Meaning Leak)",
+      "Ulven",
+      "Norrel (Axis)"
+    ],
+    "metadata": {
+      "label": "LLM_2025-04-25T10:44:58.561654",
+      "source": "LLM_plugin",
+      "query": "What is the nature of silence that follows betrayal?",
+      "timestamp": "2025-04-25T10:44:58.561654",
+      "repetition": 2
+    }
+  },
+  {
+    "id": "c9b716c9-9875-474e-a5cb-9c85d5c2bca8",
+    "label": "Trace_9",
+    "timestamp": "2025-04-25T20:49:49.485330",
+    "glyph_sequence": [
+      "Elun",
+      "Thol",
+      "Varnith (Recursive Delay)",
+      "Selkir"
+    ],
+    "metadata": {
+      "label": "LLM_2025-04-25T10:49:49.350612",
+      "source": "LLM_plugin",
+      "query": "How do shadows form between people who were once close?",
+      "timestamp": "2025-04-25T10:49:49.350612",
+      "repetition": 2
+    }
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "id": "ccc800e3-bf01-4c6a-992b-d8cdb0dff790",
+    "label": "Trace_0",
+    "timestamp": "2025-04-25T20:39:11.678715",
+    "glyph_sequence": [
+      "Self",
+      "Shadow",
+      "Yield",
+      "Threshold"
+    ],
+    "metadata": {
+      "label": "Paradox of Identity",
+      "source": "manual_seed",
+      "repetition": 2
+    }
+  },
+  {
+    "id": "43edd7f5-eab8-45f5-850d-8e120b44c47a",
+    "label": "Trace_1",
+    "timestamp": "2025-04-25T20:39:11.679715",
+    "glyph_sequence": [
+      "Desire",
+      "Contradiction",
+      "Dissonance",
+      "Resolution"
+    ],
+    "metadata": {
+      "label": "Conflicted Aspiration",
+      "source": "manual_seed",
+      "repetition": 2
+    }
+  },
+  {
+    "id": "20d729d6-ed68-4da6-ab14-56d707fb8f3f",
+    "label": "Trace_2",
+    "timestamp": "2025-04-25T20:39:11.679715",
+    "glyph_sequence": [
+      "Loss",
+      "Echo",
+      "Silence",
+      "Symbol"
+    ],
+    "metadata": {
+      "label": "Grief Reflection",
+      "source": "manual_seed",
+      "repetition": 2
+    }
+  },
+  {
+    "id": "33275cab-7125-4e20-94bc-ad734b0e8645",
+    "label": "Trace_3",
+    "timestamp": "2025-04-25T20:40:17.300041",
+    "glyph_sequence": [
+      "Treyl",
+      "Olmeth",
+      "Syven",
+      "Ulvyn"
+    ],
+    "metadata": {
+      "type": "recursive",
+      "seed": "Treyl",
+      "depth": 3,
+      "repetition": 3
+    }
+  },
+  {
+    "id": "c9de608e-eaba-4758-a440-4cc96bc12fbe",
+    "label": "Trace_4",
+    "timestamp": "2025-04-25T20:41:40.601840",
+    "glyph_sequence": [
+      "Elun",
+      "Meyreth",
+      "Delyran",
+      "Oshen"
+    ],
+    "metadata": {
+      "type": "recursive",
+      "seed": "Elun",
+      "depth": 3,
+      "repetition": 3
+    }
+  },
+  {
+    "id": "4c9c84dd-eee9-4869-b044-b68429ffdf84",
+    "label": "Trace_5",
+    "timestamp": "2025-04-25T20:43:02.323622",
+    "glyph_sequence": [
+      "Treyl",
+      "Orvyn",
+      "Kyreth",
+      "Karyth"
+    ],
+    "metadata": {
+      "type": "recursive",
+      "seed": "Treyl",
+      "depth": 3,
+      "repetition": 3
+    }
+  },
+  {
+    "id": "cd961f48-c193-4da4-bf97-80ad77a4d320",
+    "label": "Trace_6",
+    "timestamp": "2025-04-25T20:43:38.517162",
+    "glyph_sequence": [
+      "Karyth",
+      "Auren",
+      "Feyral",
+      "Jeyra"
+    ],
+    "metadata": {
+      "type": "recursive",
+      "seed": "Karyth",
+      "depth": 3,
+      "repetition": 3
+    }
+  },
+  {
+    "id": "b732bc12-d587-4ca4-8176-88855b0ec578",
+    "label": "Trace_7",
+    "timestamp": "2025-04-25T20:44:06.388954",
+    "glyph_sequence": [
+      "Elun",
+      "Veythir",
+      "Sarniel",
+      "Tirnael"
+    ],
+    "metadata": {
+      "type": "recursive",
+      "seed": "Elun",
+      "depth": 3,
+      "repetition": 3
+    }
+  },
+  {
+    "id": "33541906-c164-4ca7-acb6-438dc9195590",
+    "label": "Trace_8",
+    "timestamp": "2025-04-25T20:44:58.556505",
+    "glyph_sequence": [
+      "Elun",
+      "Elthorien (Meaning Leak)",
+      "Ulven",
+      "Norrel (Axis)"
+    ],
+    "metadata": {
+      "type": "recursive",
+      "seed": "Elun",
+      "depth": 3,
+      "repetition": 3
+    }
+  },
+  {
+    "id": "022771b3-c728-4352-9f5d-4673f6d38b6d",
+    "label": "Trace_9",
+    "timestamp": "2025-04-25T20:49:49.346489",
+    "glyph_sequence": [
+      "Elun",
+      "Thol",
+      "Varnith (Recursive Delay)",
+      "Selkir"
+    ],
+    "metadata": {
+      "type": "recursive",
+      "seed": "Elun",
+      "depth": 3
+    }
+  }
+]

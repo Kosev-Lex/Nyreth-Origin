@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-04-25T10:43:38.522278",
+  "query": "What does it mean to grow past your former self?",
+  "trace": [
+    "Karyth",
+    "Auren",
+    "Feyral",
+    "Jeyra"
+  ],
+  "compressed_insight": "Compressed Interpretation:\n→ Path Length: 4\n→ Dominant Glyphs: Karyth, Auren, Feyral\n→ Key Motifs:\n   - Common progression: 'Treyl' → 'Olmeth' (x1)\n   - Common progression: 'Olmeth' → 'Syven' (x1)\n   - Common progression: 'Syven' → 'Ulvyn' (x1)\n→ Symbolic Themes:\n   - Symbolic undercurrent\n   - Identity, gravity, recursive hub\n   - Synthesis, symbolic marriage, consonance\n→ Compression Logic:\n   - Symbolic trace compressed by distilling dominant motifs, semantic fields, and recursive flows.\n   - Each glyph’s potential and connection frequency weighted to infer layered themes.",
+  "semantic_output": "In response to the query: What does it mean to grow past your former self?, the interpretation suggests themes of Symbolic undercurrent, Identity, gravity, recursive hub, and Synthesis, symbolic marriage, consonance, via recursive progressions like a symbolic transition between unknown glyphs. These symbolic elements combine to offer a perspective that deepens the original inquiry.",
+  "matched_glyphs": [
+    "Self",
+    "Shadow"
+  ],
+  "origin": "LLM_plugin"
+}

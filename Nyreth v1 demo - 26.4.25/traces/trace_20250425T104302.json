@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-04-25T10:43:02.327689",
+  "query": "What lies at the core of paradoxical desire?",
+  "matched_glyphs": [
+    "Treyl",
+    "Elken"
+  ],
+  "unknown_terms": [],
+  "trace": [
+    "Treyl",
+    "Orvyn",
+    "Kyreth",
+    "Karyth"
+  ],
+  "compressed_insight": "Compressed Interpretation:\n→ Path Length: 4\n→ Dominant Glyphs: Treyl, Orvyn, Kyreth\n→ Key Motifs:\n   - Common progression: 'Treyl' → 'Olmeth' (x1)\n   - Common progression: 'Olmeth' → 'Syven' (x1)\n   - Common progression: 'Syven' → 'Ulvyn' (x1)\n→ Symbolic Themes:\n   - Fracture, paradox engine, cognitive tension\n   - Loss of center, entropy burst, memory fracture\n   - Self-awareness, infinite regress, symbolic loops\n→ Compression Logic:\n   - Symbolic trace compressed by distilling dominant motifs, semantic fields, and recursive flows.\n   - Each glyph’s potential and connection frequency weighted to infer layered themes.",
+  "semantic_output": "In response to the query: What lies at the core of paradoxical desire?, the interpretation suggests themes of Fracture, paradox engine, cognitive tension, Loss of center, entropy burst, memory fracture, and Self-awareness, infinite regress, symbolic loops, via recursive progressions like a symbolic transition between unknown glyphs. These symbolic elements combine to offer a perspective that deepens the original inquiry.",
+  "origin": "LLM_plugin"
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Nyreth Glyph Schema",
+  "type": "object",
+  "required": ["glyph", "translation", "category", "class", "tensor"],
+  "properties": {
+    "glyph": {
+      "type": "string",
+      "description": "The glyph name, e.g., 'Thiren'"
+    },
+    "translation": {
+      "type": "string",
+      "description": "Plain-language translation of the glyph"
+    },
+    "category": {
+      "type": "string",
+      "description": "The symbolic domain or grouping"
+    },
+    "class": {
+      "type": "string",
+      "description": "The type or role of the glyph"
+    },
+    "resonance_tag": {
+      "type": "string",
+      "description": "Optional poetic or encoded resonance tag"
+    },
+    "tensor": {
+      "type": "object",
+      "required": [
+        "valence", "persistence", "disruption", "charge",
+        "gravity", "clarity", "utility", "depth", "recursivity", "tensionality"
+      ],
+      "properties": {
+        "valence": { "type": "number", "minimum": -1, "maximum": 1 },
+        "persistence": { "type": "number", "minimum": -1, "maximum": 1 },
+        "disruption": { "type": "number", "minimum": -1, "maximum": 1 },
+        "charge": { "type": "number", "minimum": -1, "maximum": 1 },
+        "gravity": { "type": "number", "minimum": -1, "maximum": 1 },
+        "clarity": { "type": "number", "minimum": -1, "maximum": 1 },
+        "utility": { "type": "number", "minimum": -1, "maximum": 1 },
+        "depth": { "type": "number", "minimum": -1, "maximum": 1 },
+        "recursivity": { "type": "number", "minimum": -1, "maximum": 1 },
+        "tensionality": { "type": "number", "minimum": -1, "maximum": 1 }
+      }
+    }
+  }
+}

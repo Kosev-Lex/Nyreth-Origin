@@ -1,0 +1,5 @@
+matplotlib
+numpy
+tk
+cryptography
+jsonschema
