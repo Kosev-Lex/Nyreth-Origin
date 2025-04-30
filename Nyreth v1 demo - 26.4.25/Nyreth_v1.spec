@@ -6,7 +6,7 @@ block_cipher = None
 a = Analysis(
     ['Nyreth_v1.py'],
     pathex=['.'],
-    binaries=[],
+binaries=[('C:\\Program Files\\Python312\\python312.dll', '.')],
 datas=[
     ('layouts/custom_layout1.json', 'layouts'),
     ('models/.cache/.sig..x', 'models/.cache'),
