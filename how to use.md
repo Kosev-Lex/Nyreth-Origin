@@ -1,9 +1,12 @@
 Here are the instructions for how to use the Nyreth demo program:
 
 It may take a while to boot up but when the gui opens, you'll see the
-glyph universe with lots of nodes:
+glyph universe with lots of nodes; 485 to be exact:
 
 ![gui1.jpg](how%20to%20use%20pics%2Fgui1.jpg)
+
+The Glyph Universe Canvas has a dynamic tkinter interface and features drag, hover metadata,
+trace overlays, resonance rings, and layout persistence.
 
 For some reason, my carefully crafted layout defaulted to the initial layout, where
 everything is compressed together in a rectangular formation,
@@ -23,7 +26,8 @@ glyphs that can be moved.
 You can zoom in and out with the scroll but note, if you save the layout whilst zoomed
 in, you will be unable to zoom out all the way. This is something that will be improved
 in the next version. Once saved though, you are able to load your layout without issue.
-For now, it's best to save layouts from a zoomed out perspective. 
+For now, it's best to save layouts from a zoomed out perspective. You can also pan by
+holding button 3.
 
 If you press the 'Launch LLM' button:
 
@@ -35,7 +39,8 @@ It opens the pseudo LLM that has sample symbolic questions:
 
 ![gui7.jpg](how%20to%20use%20pics%2Fgui7.jpg)
 
-You select one, run it, and Nyreth retrieves the enriched answer:
+You select one, run it, and Nyreth retrieves the enriched answer via a symbolic traversal process,
+and it will show the trace pathway in the gui. Traces are stored and can be selected later:
 
 ![gui11.jpg](how%20to%20use%20pics%2Fgui11.jpg)
 
@@ -45,6 +50,10 @@ how the answer is derived.
 
 ![gui10.jpg](how%20to%20use%20pics%2Fgui10.jpg)
 
+Nyreth does not seek to replicate human cognition, but rather tries to realise a form of machine-native
+thought based upon symbolic recursion, self-structured meaning and internal resonance. 
+
+2 May 2025 ~ Thauron.
 
 
 
