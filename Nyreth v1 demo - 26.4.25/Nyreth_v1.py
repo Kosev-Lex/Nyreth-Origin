@@ -27,7 +27,7 @@
 import traceback
 
 try:
-    print("[🟢] Nyreth booting...")
+    print("Nyreth booting...")
 except Exception as e:
     with open("boot_error.log", "w") as f:
         f.write(traceback.format_exc())
