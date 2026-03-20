@@ -20,4 +20,4 @@ NYR Reader v1.0.exe (22MB)
 Status:
 This repository is otherwise being maintained as normal and will be updated from time to time. 
 All other aspects of the demo release will remain as a matter of archival record.
-Pictorial descriptions of the demo codebase will be uploaded.
+Pictorial descriptions of the demo codebase are uploaded.
