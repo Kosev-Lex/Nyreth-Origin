@@ -11,6 +11,7 @@ and the Nyreth.ai website:
 Nyreth Nyr Tile Creation Browser 1.0.zip
 (291MB, 771MB unpacked)
 (SHA256: f144bcfc11070c3eaafd426cd07baf589392e256a9b2dad08ca13f40e5846b1b)
+
 NYR Reader v1.0.exe (22MB)
 (SHA256: 7967a642ad14ff7a9d889712ebd9bc5d289592205af7ebb8225626f19a7308f4) 
 
